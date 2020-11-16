@@ -1,5 +1,5 @@
 # great-circle-distance-calculator
-A implemented Haversine formula in Java to calculate the great-circle distance between two pairs of latitude and longitude coordinates.
+Haversine formula implementation in Java to calculate the great-circle distance between two pairs of latitude and longitude coordinates.
 
 **Features**
 
@@ -10,7 +10,7 @@ The <code>HaversineAlgorithm.java</code> class have tow implemented methods and 
 
 **Unit test**
 
-To ensure accurate results from the Haversine formula implemented, the <code>HaversineAlgorithm.java</code> class are fully reviewed by unit tests, that can be found in class <code>HaversineAlgorithmTest.java</code>.
+To ensure accurate results from the Haversine formula implementation, the <code>HaversineAlgorithm.java</code> class are fully reviewed by unit tests, that can be found in class <code>HaversineAlgorithmTest.java</code>.
 
 **License**
 
